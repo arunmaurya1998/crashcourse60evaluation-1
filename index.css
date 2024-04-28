@@ -1,0 +1,12 @@
+#root{
+    text-align: start;
+}
+
+#container{
+    margin: auto;
+    
+}
+
+#id,#name,#gender,#department,#salary{
+    padding: 10px 80px;
+}
